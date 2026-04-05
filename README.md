@@ -67,7 +67,7 @@
 
 <h3>⚡ Fun Fact</h3>
 <p align="center">
-  I don’t just build apps… I build experiences 😎
+  I don’t just build apps… I build experiences 
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
