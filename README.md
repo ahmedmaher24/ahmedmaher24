@@ -36,14 +36,6 @@
 
 <hr/>
 
-<h3>📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedmaher24&theme=tokyonight" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=ahmedmaher24&theme=tokyonight&hide_border=true" />
-</p>
-<hr/>
-
 <h3>🧠 Currently Learning</h3>
 <ul>
   <li>Advanced Flutter Animations 🎬</li>
@@ -52,6 +44,15 @@
 </ul>
 
 <hr/>
+
+<h3>📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedmaher24&theme=tokyonight" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=ahmedmaher24&theme=tokyonight&hide_border=true" />
+</p>
+<hr/>
+
 
 <h3>🚀 Featured Projects</h3>
 <p align="center">
