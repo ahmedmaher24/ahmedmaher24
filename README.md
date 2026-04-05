@@ -23,9 +23,9 @@
 
 <h3>📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmaher24&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmaher24&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmaher24&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ahmedmaher24&theme=tokyonight&hide_border=true" />
 </p>
 
 <hr/>
