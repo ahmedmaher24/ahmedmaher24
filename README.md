@@ -14,6 +14,21 @@
 
 <hr/>
 
+<h3>🤝 Connect With Me</h3>
+<p align="center">
+  <a href="https://github.com/ahmedmaher24">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-maher-6b1b5022a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:ahmedmaher24@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+<hr/>
+
 <h3>🧰 Tech Stack</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode" />
@@ -35,21 +50,6 @@
   <li>Clean Architecture 🏗️</li>
   <li>State Management (Bloc / Riverpod) ⚙️</li>
 </ul>
-
-<hr/>
-
-<h3>🤝 Connect With Me</h3>
-<p align="center">
-  <a href="https://github.com/ahmedmaher24">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-maher-6b1b5022a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:ahmedmaher24@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail">
-  </a>
-</p>
 
 <hr/>
 
